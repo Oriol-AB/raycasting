@@ -1,2 +1,2 @@
 # Raycasting
-Raycasting in Python/Pygame
+Raycasting in C++
