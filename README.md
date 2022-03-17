@@ -1,2 +1,2 @@
-# raycasting
+# Raycasting
 Raycasting in Python/Pygame
